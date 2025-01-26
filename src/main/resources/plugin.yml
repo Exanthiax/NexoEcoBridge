@@ -1,0 +1,10 @@
+name: CustomItemsNexo
+version: 1.0.0
+main: com.exanthiax.nexoEcoBridge.NexoEcoBridgePlugin
+api-version: 1.19
+author: Exanthiax
+depend:
+  - eco
+softdepend:
+  - nexo
+  - deluxemenus
